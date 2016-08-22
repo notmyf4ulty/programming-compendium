@@ -1,6 +1,9 @@
-1. Git - how to delete file from repo:
-  link: http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo
-  solution: git rm --cached file1.txt
-2. Git - how to ignore whole directories:
-  link: http://stackoverflow.com/questions/343646/ignoring-directories-in-git-repos-on-windows
-  solution: In ".gitignore" add a line with dir_to_ignore/
+1. Git
+  Delete file from a repo:
+    link: http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo
+    solution: git rm --cached file1.txt
+  Ignore whole directories:
+    link: http://stackoverflow.com/questions/343646/ignoring-directories-in-git-repos-on-windows
+    solution: In ".gitignore" add a line with dir_to_ignore/
+2. IntelliJ IDEA
+  Auto-indent: Ctrl+A -> Ctrl+Alt+I
