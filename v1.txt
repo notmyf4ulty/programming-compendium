@@ -5,5 +5,7 @@
   Ignore whole directories:
     link: http://stackoverflow.com/questions/343646/ignoring-directories-in-git-repos-on-windows
     solution: In ".gitignore" add a line with dir_to_ignore/
+  Adding public key in Linux:
+    link/solution: https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-linux
 2. IntelliJ IDEA
   Auto-indent: Ctrl+A -> Ctrl+Alt+I
