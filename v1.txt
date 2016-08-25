@@ -27,3 +27,7 @@
     http://www.tutorialspoint.com/junit/
   JUnit Best Practices (quite good):
     http://www.kyleblaney.com/junit-best-practices/
+4. Hibernate
+  How to automatically generate ID:
+    solution: add @GeneratedValue adnotation (optional - add @GeneratedValue(strategy=GenerationType.AUTO))
+    link: http://stackoverflow.com/questions/2011528/hibernate-auto-increment-id
