@@ -12,6 +12,12 @@
     Ctrl+A -> Ctrl+Alt+I
   Sorround text with a brace or colon after typing quote (") while text selected:
     File > Settings > Editor > General > Smart Keys > "Surround selection on typing quote or brace"
+  Select line:
+    solution: Double click Ctrl, and then Home / End regarding what's desired select direction.
+    link (more tricks with text selection): https://www.jetbrains.com/help/idea/2016.2/selecting-text-in-the-editor.html
+  Extract variable:
+    solution: Select statement and Ctrl + Alt + V
+    link (more tricks with extracting variables): https://www.jetbrains.com/help/idea/2016.2/extract-variable.html
 3. JUnit
   Shitty (but sufficient) tutorial:
     http://www.tutorialspoint.com/junit/
