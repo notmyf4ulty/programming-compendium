@@ -18,6 +18,10 @@
   Extract variable:
     solution: Select statement and Ctrl + Alt + V
     link (more tricks with extracting variables): https://www.jetbrains.com/help/idea/2016.2/extract-variable.html
+  Generate getters and setters:
+    solution: Select field from which you want to generate getters and setters -> right click -> "Generate..." -> "Getters and setters" -> Select all the fields and click OK.
+      NOTE: Consider, that they will be generated in a line on which you clicked your mouse button. I suggest doing that at the end of the field are in your class.
+    link: https://www.jetbrains.com/help/idea/2016.2/generating-getters-and-setters.html
 3. JUnit
   Shitty (but sufficient) tutorial:
     http://www.tutorialspoint.com/junit/
