@@ -12,3 +12,8 @@
     Ctrl+A -> Ctrl+Alt+I
   Sorround text with a brace or colon after typing quote (") while text selected:
     File > Settings > Editor > General > Smart Keys > "Surround selection on typing quote or brace"
+3. JUnit
+  Shitty (but sufficient) tutorial:
+    http://www.tutorialspoint.com/junit/
+  JUnit Best Practices (quite good):
+    http://www.kyleblaney.com/junit-best-practices/
