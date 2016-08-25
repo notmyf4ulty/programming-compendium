@@ -8,4 +8,7 @@
   Adding public key in Linux:
     link/solution: https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-linux
 2. IntelliJ IDEA
-  Auto-indent: Ctrl+A -> Ctrl+Alt+I
+  Auto-indent: 
+    Ctrl+A -> Ctrl+Alt+I
+  Sorround text with a brace or colon after typing quote (") while text selected:
+    File > Settings > Editor > General > Smart Keys > "Surround selection on typing quote or brace"
