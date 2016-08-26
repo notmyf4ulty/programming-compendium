@@ -31,3 +31,7 @@
   How to automatically generate ID:
     solution: add @GeneratedValue adnotation (optional - add @GeneratedValue(strategy=GenerationType.AUTO))
     link: http://stackoverflow.com/questions/2011528/hibernate-auto-increment-id
+5. Java
+  How to enter space or "=" character in the .properties file:
+    solution: \u003d for "=" and \u0020 for space
+    link: http://stackoverflow.com/questions/2108103/can-the-key-in-a-java-property-include-a-blank-character
