@@ -39,3 +39,7 @@
   How to disable "Alt" - drag feature:
     solution: xfconf-query -c xfwm4 -p /general/easy_click -s none
     link: http://askubuntu.com/questions/270032/how-do-i-disable-window-move-with-alt-left-mouse-button-in-xubuntu
+7. Javadoc/Doxygen comments:
+  Getter/Setter:
+    "Setter of ABSTRACTION" / "New ABSTRACTION"
+    "Getter of ABSTRACTION" / "ABSTRACTION"
