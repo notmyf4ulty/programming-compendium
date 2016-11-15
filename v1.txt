@@ -1,4 +1,7 @@
 1. Git
+  Guides:
+    http://rogerdudler.github.io/git-guide/
+    http://ohshitgit.com/
   Delete file from a repo:
     link: http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo
     solution: git rm --cached file1.txt
@@ -43,3 +46,6 @@
   Getter/Setter:
     "Setter of ABSTRACTION" / "New ABSTRACTION"
     "Getter of ABSTRACTION" / "ABSTRACTION"
+8. Working with text:
+  Tuts:
+    http://matt.might.net/articles/sculpting-text/
